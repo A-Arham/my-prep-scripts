@@ -1,0 +1,44 @@
+# Core
+numpy
+pandas
+python-dotenv
+requests
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter & Notebooks
+jupyter
+notebook
+ipython
+ipykernel
+
+# Data wrangling & science tools
+scikit-learn
+scipy
+statsmodels
+
+# File handling
+openpyxl
+xlrd
+pyyaml
+
+# Time & date utilities
+pytz
+dateparser
+
+# Web scraping (optional but handy)
+beautifulsoup4
+lxml
+
+# Interactive progress
+tqdm
+
+# Pretty printing
+rich
+
+# Optional: auto-formatting & linting
+black
+flake8

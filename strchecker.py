@@ -15,7 +15,7 @@ def friend(x):
             friends.append(x[i])
 
 
-    print(friends)
+    return friends
 
 
 

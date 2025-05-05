@@ -6,7 +6,7 @@ Each file includes exercises and solutions to help improve familiarity with Pyth
 
 ## Purpose
 
-These scripts are part of my ongoing Python learning journey.  
+These scripts are part of my ongoing Python practice journey.  
 They cover a wide range of topics, from syntax fundamentals to working with libraries and custom logic.
 
 ## Requirements
